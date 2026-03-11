@@ -1,18 +1,22 @@
+#Build and CMake
 build/
 bin/
 .cache/
 compile_commands.json
 
+#NeoVim
 *.swp
 *.swo
 *.un~
 *~
 Session.vim
 
+#Linux / C
 core
 core.*
 vgcore.*
 perf.data
 
+#Mac / Windows junk
 .DS_Store
 Thumbs.db
